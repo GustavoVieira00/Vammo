@@ -1,17 +1,26 @@
 
+
 # Vammo
 
 ## Sobre o projeto
 
-A Vammo é um projeto acadêmico desenvolvido em equipe. Este repositório tem como finalidade centralizar e organizar os arquivos e a documentação do projeto.
+A Vammo é um projeto acadêmico desenvolvido em equipe, com foco na modelagem e organização de um banco de dados.
 
 ## Objetivo
 
-Documentar a proposta do projeto, registrar suas etapas de desenvolvimento e facilitar a colaboração entre os integrantes da equipe.
+Organizar e documentar a estrutura do banco de dados, representando as entidades, seus atributos, chaves e relacionamentos.
 
-## Documentação
+## Modelagem do banco de dados
 
-Os documentos, requisitos e diagramas serão organizados neste repositório conforme o andamento do projeto.
+O projeto possui um diagrama entidade-relacionamento (DER), que representa as entidades e os relacionamentos identificados para o sistema.
+
+O arquivo do diagrama está disponível no repositório.
+
+## Estrutura do repositório
+
+- `README.md`: apresentação e informações gerais do projeto.
+- `documentos/`: documentação do projeto.
+- `Diagrama.jpeg`: diagrama entidade-relacionamento.
 
 ## Equipe
 
@@ -19,9 +28,9 @@ Os documentos, requisitos e diagramas serão organizados neste repositório conf
 - Beatriz Santos Carvalho
 - Gustavo Felipe De Freitas Vieira
 - Kawê Abrantes Lopes
-- Lucas Quirino Santiago Frizarim De Oliviera
-- Maria Eduarda Nogueir
-- Thiago Viana Da Silva 
+- Lucas Quirino Santiago Frizarim De Oliveira
+- Maria Eduardo Nogueira
+- Thiago Viana Da Silva
 
 ## Status
 
