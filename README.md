@@ -29,7 +29,7 @@ O arquivo do diagrama está disponível no repositório.
 - Gustavo Felipe De Freitas Vieira
 - Kawê Abrantes Lopes
 - Lucas Quirino Santiago Frizarim De Oliveira
-- Maria Eduardo Nogueira
+- Maria Eduarda Nogueira
 - Thiago Viana Da Silva
 
 ## Status
